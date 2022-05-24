@@ -22,5 +22,8 @@
         <br><br>
         <button>cadastrar</button>
     </form>
+    <br><br>
+    <a href="http://127.0.0.1:8000/editar-produto/1">
+        <button> Editar Produto </button>
 </body>
 </html>
